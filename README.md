@@ -1,7 +1,3 @@
-# 该脚本已失效，请移至新脚本[nps-socks5](https://github.com/wyx176/nps-socks5)
-# 该脚本已失效，请移至新脚本[nps-socks5](https://github.com/wyx176/nps-socks5)
-# 该脚本已失效，请移至新脚本[nps-socks5](https://github.com/wyx176/nps-socks5)
-# 该脚本已失效，请移至新脚本[nps-socks5](https://github.com/wyx176/nps-socks5)
 # Socks5服务一键搭建脚本
 - [x] 稳定版V1.1.8
 
